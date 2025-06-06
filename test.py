@@ -8,3 +8,8 @@ print("hello world !!")   # This line is added from local
 Print("this code is from developer 3")
 
 "this is where i practice git"
+
+
+"merge conflict resolution"
+
+print("hello world !!")   # This line is added from local
