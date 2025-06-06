@@ -13,4 +13,6 @@ Print("this code is from developer 3")
 "merge conflict resolution"
 
 print("hello world !!")   # This line is added from local
-" lets create a conglict"
+" lets create a conflict and you know how to resolve it"
+print("hello world !!")   # This line is added from local
+print("hello world !!")   # This line is added from local
